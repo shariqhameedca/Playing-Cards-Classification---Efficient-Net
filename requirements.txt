@@ -1,0 +1,6 @@
+numpy==1.26.1
+matplotlib==3.8.0
+torch==2.1.0+cpu
+timm==0.9.8
+PIL==10.0.1
+tqdm==4.66.1
